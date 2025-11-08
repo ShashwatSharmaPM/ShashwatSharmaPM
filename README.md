@@ -7,6 +7,9 @@ I specialize in creating smart integrations, tracking and analyzing user behavio
 
 💬This GitHub showcases my work on:
 - Product prototypes and smart plugins
+- Analytics and data-driven experiments
+- API integrations and technical workflows
+- Product case studies and roadmap documentation
 <!--
 **ShashwatSharmaPM/ShashwatSharmaPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
