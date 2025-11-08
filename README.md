@@ -3,7 +3,7 @@
 I'm a Product Manager passionate about building user-centric, data-driven SaaS products.  
 I specialize in creating smart integrations, tracking and analyzing user behavior, and iterating on product experiences to drive measurable impact.  
 
-🔭 You can find my CV here
+🔭 You can find my CV [here](https://github.com/ShashwatSharmaPM/ShashwatSharmaPM/blob/main/CV.md)
 
 💬This GitHub showcases my work on:
 - Product prototypes and smart plugins
