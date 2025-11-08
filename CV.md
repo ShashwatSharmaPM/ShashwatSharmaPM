@@ -58,10 +58,9 @@ B.Tech  •  Mechanical Engineering
 
 ## Languages
 * English native.
-* German beginner
+* German beginner - A2
 
 ## Contacts
 * [LinkedIn](https://www.linkedin.com/in/sharma-shashwat/)
 * [Github](https://github.com/ShashwatSharmaPM)
 * [Email](mailto:shashwat.sharma@iiml.org)
-* [Telegram](https://t.me/yuhenobi)
