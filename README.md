@@ -1,11 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Shashwat 👋
 
+I'm a Product Manager passionate about building user-centric, data-driven SaaS products.  
+I specialize in creating smart integrations, tracking and analyzing user behavior, and iterating on product experiences to drive measurable impact.  
+
+🔭 You can find my CV here
+
+💬This GitHub showcases my work on:
+- Product prototypes and smart plugins
+- Analytics and data-driven experiments
+- API integrations and technical workflows
+- Product case studies and roadmap documentation
 <!--
 **ShashwatSharmaPM/ShashwatSharmaPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
